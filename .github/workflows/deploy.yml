@@ -26,4 +26,4 @@ jobs:
         with:
           branch: gh-pages  # Target the gh-pages branch for deployment
           folder: .  # Deploy the contents of the root directory
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN_NEW }}
